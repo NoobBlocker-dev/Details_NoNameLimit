@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: Details!: NoNameLimit (plugin)
+## Notes: Removes NickTag limits
+## RequiredDeps: Details
+
+init.lua
